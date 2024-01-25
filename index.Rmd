@@ -1,6 +1,5 @@
 ---
 title: "Workshop on Dose-Response Meta-Analysis"
-subtitle: "3-day, online ISCB course in biostatistics (15-19 April 2024)"
 ---
 
 <style type="text/css">
@@ -11,16 +10,36 @@ subtitle: "3-day, online ISCB course in biostatistics (15-19 April 2024)"
 
 ---
 
-### Workshop overview
+
+### Workshop details 
+
+- **Date**: April 15-19, 2024  
+- **Time**: 9:00-12:00 + 13:00-16:00  
+- **Location**: Wargentin Lecture Hall, MEB
 
 
 ---
 
-### Workshop teachers
+
+### Workshop instructors 
 
 [Nicola Orsini](https://ki.se/en/people/nicola-orsini){target="_blank"}, Principle Invistigator at Karolinska Institutet.
 
 [Alessio Crippa](https://ki.se/en/people/alessio-crippa){target="_blank"}, Senior Research Specialist at Karolinska Institutet.
+
+
+---
+
+### Workshop overview
+
+The primary objective of this workshop is to offer participants an in-depth understanding of concepts and methodologies for conducting dose-response meta-analyses, utilizing either individual patient data or aggregated (summarized) data. 
+The workshop will cover a range of topics, including statistical models tailored for dose-response meta-analyses across various endpoints such as continuous, binary, and time-to-event data. Additionally, participants will explore different dose-response strategies, including linear trends, polynomials, and splines, along with techniques for assessing and quantifying heterogeneity, meta-regression models, and sensitivity analyses.
+Throughout the workshop, we will elucidate different research questions and applications, formalize statistical inference methods for the proposed models, delineate the types of available data, and demonstrate how to effectively present results in tabular and graphical formats suitable for publication.
+
+The workshop will employ a combination of lectures and hands-on computer sessions. There will be a strong emphasis on practical implementation, with all analyses and exercises conducted using both Stata and R software. By the conclusion of the workshop, participants should feel confident in their ability to conduct a dose-response meta-analysis using their own data.
+
+More details about the workshop, including a preliminary schedule, can be found [here](about.html)
+
 
 ---
 
@@ -28,8 +47,8 @@ subtitle: "3-day, online ISCB course in biostatistics (15-19 April 2024)"
 
 To register for the course, please follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSfWKh4smUjfiyGhBvFbgPrNt-a3G0fd3fGCmTlOAIbU90YBEw/viewform){target="_blank"}.
 
-Registration is now open and will close on 31st March 2024 or when the maximum number of participants is reached.
-
+Registration is now open and will close on March 3rd, 2024.
+Since only a limited number of seats is available, the selected participants will be informed about acceptance at latest on March 10, 2024. Priority is given to participants affiliated to the 5 departments of SFO-Epi (GPH, IMM, MEB, KEP, ARC). 
 
 ---
 

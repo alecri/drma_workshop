@@ -1,0 +1,127 @@
+---
+title: "About this course"
+---
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+---
+
+### Workshop overview
+
+The primary objective of this workshop is to offer participants an in-depth understanding of concepts and methodologies for conducting dose-response meta-analyses, utilizing either individual patient data or aggregated (summarized) data. 
+The workshop will cover a range of topics, including statistical models tailored for dose-response meta-analyses across various endpoints such as continuous, binary, and time-to-event data. Additionally, participants will explore different dose-response strategies, including linear trends, polynomials, and splines, along with techniques for assessing and quantifying heterogeneity, meta-regression models, and sensitivity analyses.
+Throughout the workshop, we will elucidate different research questions and applications, formalize statistical inference methods for the proposed models, delineate the types of available data, and demonstrate how to effectively present results in tabular and graphical formats suitable for publication.
+
+The workshop will employ a combination of lectures and hands-on computer sessions. There will be a strong emphasis on practical implementation, with all analyses and exercises conducted using both Stata and R software. By the conclusion of the workshop, participants should feel confident in their ability to conduct a dose-response meta-analysis using their own data.
+
+
+
+---
+
+### Content
+
+Although research questions about dose-response mechanisms based on multiple studies of either aggregated or individual data are increasingly popular, formal training on this topic is lacking. Aim of this workshop is to introduce participants to the type questions, data, statistical models, and visualizations widely used in a variety of research fields (i.e. nutrition, cancer, cardiovascular, environmental). 
+
+This workshop will cover methods for estimating dose-response associations from either individual or aggregated patients data, flexible modelling using splines and polynomials, meta-analysis of study-specific dose-response functions, hypothesis testing, quantification and evaluation of heterogeneity, meta-regression models and sensitivity analyses. Focus will be on the specification of an appropriate research question, choice of analysis, interpretation of results, and presentation of dose-response results either in a tabular or graphical presentation.
+
+
+---
+
+### Who is this course for?
+
+This course is aimed at researchers and students in biostatistics, epidemiology and related fields. Some knowledge of basic statistical concepts (i.e. central limit theorem, test of hypothesis, confidence intervals) and multiple linear regression models will be assumed. Participants should have some prior experience of using either R or Stata, though not necessarily in the context of meta-analysis.
+
+---
+
+### Evaluation
+
+At the end of the workshop, you will be asked to provide some feedback and evaluate strengths and limitations of the proposed learning activities. 
+
+---
+
+###  Schedule
+
+
+|Time                   |Topic                                                  |Teacher                       |
+|:----------------------|:------------------------------------------------------|:-----------------------------|
+|09:15 - 09:30         |Welcome and introductions                               |                              |
+
+**Part 1: Introduction**
+
+|                       |                                                       |                              |
+|:----------------------|:------------------------------------------------------|:-----------------------------|
+|09:30 - 10:15          |Lecture:                                               | Nicola Orsini                |  
+|10:15 - 10:30          |Break                                                  |                              |  
+|10:30 - 12:00          |Practical:                                             | Alessio Crippa               |        
+
+**Part 2: **
+
+|                       |                                                       |                              |  
+|:----------------------|:------------------------------------------------------|:-----------------------------|  
+|13:00 - 14:30          |Lecture:                                               | Alessio Crippa               |  
+|14:30 - 14:45          |Break                                                  |                              |  
+|14:45 - 16:00          |Practical:                                             | Nicola Orsini                |  
+
+
+
+
+**Day 2**
+ 
+**Part 3: **
+
+|                       |                                                       |                              |
+|:----------------------|:------------------------------------------------------|:-----------------------------|
+|09:30 - 10:15          |Lecture:                                               |                              |  
+|10:15 - 10:30          |Break                                                  |                              |  
+|10:30 - 12:00          |Practical:                                             |                              |        
+
+
+**Part 4: **
+
+|                       |                                                       |                              |  
+|:----------------------|:------------------------------------------------------|:-----------------------------|  
+|13:00 - 14:30          |Lecture:                                               |                              |  
+|14:30 - 14:45          |Break                                                  |                              |  
+|14:45 - 16:00          |Practical:                                             |                              |  
+
+
+**Day 3**
+ 
+**Part 5: **
+
+|                       |                                                       |                              |
+|:----------------------|:------------------------------------------------------|:-----------------------------|
+|09:30 - 10:15          |Lecture:                                               |                              |  
+|10:15 - 10:30          |Break                                                  |                              |  
+|10:30 - 12:00          |Practical:                                             |                              |        
+
+
+**Part 6: **
+
+
+|                       |                                                       |                              |  
+|:----------------------|:------------------------------------------------------|:-----------------------------|  
+|13:00 - 14:30          |Lecture:                                               |                              |  
+|14:30 - 14:45          |Break                                                  |                              |  
+|14:45 - 16:00          |Practical:                                             |                              |  
+
+
+---
+
+### Contact
+
+For questions about the workshop or your registration please contact the organisers by email on [nicola.orsini@ki.se](nicola.orsini@ki.se).
+
+
+---
+
+### Acknowledgements
+
+This workshop is supported by the Strategic Research Program (SFO-Epi) in Biostatistics and Epidemiology at Karolinska Institutet. 
+
+</br>
+

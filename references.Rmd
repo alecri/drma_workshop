@@ -1,0 +1,65 @@
+---
+title: "References"
+---
+
+<style type="text/css">
+  body{
+  font-size: 14pt;
+  line-height: 2.0;
+}
+</style>
+
+---
+
+### Book chapters
+
+- *Orsini N*, Larsson SC, Salanti G. Dose–Response Meta‐Analysis. Systematic Reviews in Health Research: Meta‐Analysis in Context. 2022 Apr 22:258-69.  
+
+- *Orsini N*, Spiegelman D. Meta-analysis of dose-response relationships. Handbook of Meta-Analysis. 2020 Sep 7:395-428.  
+
+---
+
+
+### Methodologies
+
+- *Crippa A*, Discacciati A, Bottai M, Spiegelman D, *Orsini N*. One-stage dose–response meta-analysis for aggregated data. Statistical methods in medical research. 2019 May;28(5):1579-96.  
+
+- *Orsini N*, Li R, Wolk A, Khudyakov P, Spiegelman D. Meta-analysis for linear and nonlinear dose-response relations: examples, an evaluation of approximations, and software. American journal of epidemiology. 2012 Jan 1;175(1):66-73.
+
+- *Crippa A*, *Orsini N*. Dose-response meta-analysis of differences in means. BMC medical research methodology. 2016 Dec;16(1):1-0.  
+
+- Discacciati A, *Crippa A*, *Orsini N*. Goodness of fit tools for dose–response meta‐analysis of binary outcomes. Research synthesis methods. 2017 Jun;8(2):149-60.
+
+- *Crippa A*, Khudyakov P, Wang M, *Orsini N*, Spiegelman D. A new measure of between‐studies heterogeneity in meta‐analysis. Statistics in medicine. 2016 Sep 20;35(21):3661-75.
+
+- *Crippa A*, Thomas I, *Orsini N*. A pointwise approach to dose-response meta-analysis of aggregated data. International Journal of Statistics in Medical Research. 2018 May 8;7(2):25-32.
+
+- *Crippa A*. Novel Methods for Dose-Response Meta-Analysis. Karolinska Institutet (Sweden); 2018.
+
+---
+
+
+### Software
+
+- *Crippa A*, *Orsini N*. Multivariate dose-response meta-analysis: the dosresmeta R package. Journal of Statistical Software. 2016 Aug 16;72:1-5.
+
+- *Crippa A*, *Orsini N*. Dosresmeta: Performing Multivariate Dose-response Meta-analysis (2013). R Foundation for Statistical Computing: Vienna, Austria.
+
+- *Orsini N*. Multivariate dose-response meta-analysis: an update on glst. InNordic and Baltic Users Group Meeting, Stockholm, Sweden 2013 Sep 27.
+
+- *Orsini N*, Bellocco R, Greenland S. Generalized least squares for trend estimation of summarized dose–response data. The stata journal. 2006 Feb;6(1):40-57.
+---
+
+### Selected applications
+
+- Smith AD, *Crippa A*, Woodcock J, Brage S. Physical activity and incident type 2 diabetes mellitus: a systematic review and dose–response meta-analysis of prospective cohort studies. Diabetologia. 2016 Dec;59(12):2527-45.  
+
+- Discacciati A, *Orsini N*, Wolk A. Body mass index and incidence of localized and advanced prostate cancer—a dose–response meta-analysis of prospective studies. Annals of oncology. 2012 Jul 1;23(7):1665-71.  
+
+- *Crippa A*, Discacciati A, Larsson SC, Wolk A, *Orsini N*. Coffee consumption and mortality from all causes, cardiovascular disease, and cancer: a dose-response meta-analysis. American journal of epidemiology. 2014 Oct 15;180(8):763-75.
+
+- Leucht S, *Crippa A*, Siafis S, Patel MX, *Orsini N*, Davis JM. Dose-response meta-analysis of antipsychotic drugs for acute schizophrenia. American Journal of Psychiatry. 2020 Apr 1;177(4):342-53.  
+
+- Filippini T, Hatch EE, Rothman KJ, Heck JE, Park AS, *Crippa A*, *Orsini N*, Vinceti M. Association between outdoor air pollution and childhood leukemia: a systematic review and dose–response meta-analysis. Environmental health perspectives. 2019 Apr 24;127(4):046002.  
+
+- Larsson SC, *Orsini N*, Wolk A. Urinary cadmium concentration and risk of breast cancer: a systematic review and dose-response meta-analysis. American Journal of Epidemiology. 2015 Sep 1;182(5):375-80.

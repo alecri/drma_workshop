@@ -12,6 +12,10 @@ navbar:
   right:
   - text: "Home"
     href: index.html
+  - text: "About"
+    href: about.html
+  - text: "References"
+    href: references.html
   #- label: "GitHub"
   #  icon: fa-github fa-lg
   #  href: http://github.com/alecri/drma_workshop

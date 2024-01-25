@@ -4,8 +4,8 @@ title: "References"
 
 <style type="text/css">
   body{
-  font-size: 14pt;
-  line-height: 2.0;
+  font-size: 13pt;
+  line-height: 1.5;
 }
 </style>
 
@@ -48,6 +48,7 @@ title: "References"
 - *Orsini N*. Multivariate dose-response meta-analysis: an update on glst. InNordic and Baltic Users Group Meeting, Stockholm, Sweden 2013 Sep 27.
 
 - *Orsini N*, Bellocco R, Greenland S. Generalized least squares for trend estimation of summarized dose–response data. The stata journal. 2006 Feb;6(1):40-57.
+
 ---
 
 ### Selected applications

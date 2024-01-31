@@ -13,7 +13,7 @@ title: "Workshop on Dose-Response Meta-Analysis"
 
 ### Workshop details 
 
-- **Date**: April 15-19, 2024  
+- **Date**: April 17-19, 2024  
 - **Time**: 9:00-12:00 + 13:00-16:00  
 - **Location**: Wargentin Lecture Hall, MEB
 

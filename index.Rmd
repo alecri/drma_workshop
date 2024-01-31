@@ -30,13 +30,9 @@ title: "Workshop on Dose-Response Meta-Analysis"
 
 ---
 
-### Workshop overview
+### Abstract
 
-The primary objective of this workshop is to offer participants an in-depth understanding of concepts and methodologies for conducting dose-response meta-analyses, utilizing either individual patient data or aggregated (summarized) data. 
-The workshop will cover a range of topics, including statistical models tailored for dose-response meta-analyses across various endpoints such as continuous, binary, and time-to-event data. Additionally, participants will explore different dose-response strategies, including linear trends, polynomials, and splines, along with techniques for assessing and quantifying heterogeneity, meta-regression models, and sensitivity analyses.
-Throughout the workshop, we will elucidate different research questions and applications, formalize statistical inference methods for the proposed models, delineate the types of available data, and demonstrate how to effectively present results in tabular and graphical formats suitable for publication.
-
-The workshop will employ a combination of lectures and hands-on computer sessions. There will be a strong emphasis on practical implementation, with all analyses and exercises conducted using both Stata and R software. By the conclusion of the workshop, participants should feel confident in their ability to conduct a dose-response meta-analysis using their own data.
+Dose-response meta-analysis synthesizes dose-response data from multiple studies to explore relationships between quantitative exposure and outcomes, increasingly popular in many fields, including medicine, environmental science, and public health. The aim of this workshop is to offer participants an in-depth understanding of concepts and methodologies for conducting dose-response meta-analyses, utilizing either individual patient data or aggregated (summarized) data. The workshop will cover a range of topics, including statistical models tailored for dose-response meta-analyses across various endpoints such as continuous, binary, and time-to-event data. Additionally, participants will explore different dose-response strategies, including linear trends, polynomials, and splines, along with techniques for assessing and quantifying heterogeneity, meta-regression models, and sensitivity analyses. Throughout the workshop, we will elucidate different research questions and applications, formalize statistical inference methods for the proposed models, delineate the types of available data, and demonstrate how to effectively present results in tabular and graphical formats suitable for publication.
 
 More details about the workshop, including a preliminary schedule, can be found [here](about.html)
 
